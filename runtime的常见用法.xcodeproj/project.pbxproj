@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		712D5FFA1E724E0C00941BBB /* LXEncodeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 712D5FF91E724E0C00941BBB /* LXEncodeModel.m */; };
+		712D5FFD1E7250D400941BBB /* NSObject+LXEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = 712D5FFC1E7250D400941BBB /* NSObject+LXEncode.m */; };
+		712D60021E72523F00941BBB /* TestModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 712D60011E72523F00941BBB /* TestModel.m */; };
+		712D60071E72550600941BBB /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 712D60061E72550600941BBB /* TestViewController.m */; };
+		71E1049C1E7CED3A00BF3596 /* NSObject+LXKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = 71E1049B1E7CED3A00BF3596 /* NSObject+LXKVO.m */; };
 		71F438281E70F5C6000EB5C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438271E70F5C6000EB5C5 /* main.m */; };
 		71F4382B1E70F5C6000EB5C5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4382A1E70F5C6000EB5C5 /* AppDelegate.m */; };
 		71F4382E1E70F5C6000EB5C5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4382D1E70F5C6000EB5C5 /* ViewController.m */; };
@@ -15,6 +20,17 @@
 		71F438361E70F5C6000EB5C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71F438341E70F5C6000EB5C5 /* LaunchScreen.storyboard */; };
 		71F438411E70F5C7000EB5C5 /* runtime_____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438401E70F5C7000EB5C5 /* runtime_____Tests.m */; };
 		71F4384C1E70F5C7000EB5C5 /* runtime_____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4384B1E70F5C7000EB5C5 /* runtime_____UITests.m */; };
+		71F4385C1E70F61A000EB5C5 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4385B1E70F61A000EB5C5 /* Person.m */; };
+		71F4385F1E70F7E1000EB5C5 /* Person+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4385E1E70F7E1000EB5C5 /* Person+Category.m */; };
+		71F438621E710B1A000EB5C5 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438611E710B1A000EB5C5 /* Student.m */; };
+		71F4386A1E712D51000EB5C5 /* CATest.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438691E712D51000EB5C5 /* CATest.m */; };
+		71F4386E1E713D2D000EB5C5 /* Teacher.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4386D1E713D2D000EB5C5 /* Teacher.m */; };
+		71F438BF1E7155ED000EB5C5 /* GithubUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438BC1E7155ED000EB5C5 /* GithubUser.m */; };
+		71F438C01E7155ED000EB5C5 /* NSObject+Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438BE1E7155ED000EB5C5 /* NSObject+Model.m */; };
+		71F438C71E71580F000EB5C5 /* Human.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F438C61E71580F000EB5C5 /* Human.m */; };
+		71FAE0081E7BDAA6002E88E2 /* Chinese.m in Sources */ = {isa = PBXBuildFile; fileRef = 71FAE0071E7BDAA6002E88E2 /* Chinese.m */; };
+		71FAE00B1E7BE478002E88E2 /* FeralCat.m in Sources */ = {isa = PBXBuildFile; fileRef = 71FAE00A1E7BE478002E88E2 /* FeralCat.m */; };
+		71FAE00E1E7BE4DD002E88E2 /* HomeCat.m in Sources */ = {isa = PBXBuildFile; fileRef = 71FAE00D1E7BE4DD002E88E2 /* HomeCat.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +51,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		712D5FF81E724E0C00941BBB /* LXEncodeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXEncodeModel.h; sourceTree = "<group>"; };
+		712D5FF91E724E0C00941BBB /* LXEncodeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXEncodeModel.m; sourceTree = "<group>"; };
+		712D5FFB1E7250D400941BBB /* NSObject+LXEncode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+LXEncode.h"; sourceTree = "<group>"; };
+		712D5FFC1E7250D400941BBB /* NSObject+LXEncode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+LXEncode.m"; sourceTree = "<group>"; };
+		712D60001E72523F00941BBB /* TestModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestModel.h; sourceTree = "<group>"; };
+		712D60011E72523F00941BBB /* TestModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestModel.m; sourceTree = "<group>"; };
+		712D60051E72550600941BBB /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		712D60061E72550600941BBB /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		71E1049A1E7CED3A00BF3596 /* NSObject+LXKVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+LXKVO.h"; sourceTree = "<group>"; };
+		71E1049B1E7CED3A00BF3596 /* NSObject+LXKVO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+LXKVO.m"; sourceTree = "<group>"; };
 		71F438231E70F5C6000EB5C5 /* runtime的常见用法.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "runtime的常见用法.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71F438271E70F5C6000EB5C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		71F438291E70F5C6000EB5C5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +77,28 @@
 		71F438471E70F5C7000EB5C5 /* runtime的常见用法UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "runtime的常见用法UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71F4384B1E70F5C7000EB5C5 /* runtime_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "runtime_____UITests.m"; sourceTree = "<group>"; };
 		71F4384D1E70F5C7000EB5C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71F4385A1E70F61A000EB5C5 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		71F4385B1E70F61A000EB5C5 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		71F4385D1E70F7E1000EB5C5 /* Person+Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Person+Category.h"; sourceTree = "<group>"; };
+		71F4385E1E70F7E1000EB5C5 /* Person+Category.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Person+Category.m"; sourceTree = "<group>"; };
+		71F438601E710B1A000EB5C5 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
+		71F438611E710B1A000EB5C5 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
+		71F438681E712D51000EB5C5 /* CATest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CATest.h; sourceTree = "<group>"; };
+		71F438691E712D51000EB5C5 /* CATest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CATest.m; sourceTree = "<group>"; };
+		71F4386C1E713D2D000EB5C5 /* Teacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Teacher.h; sourceTree = "<group>"; };
+		71F4386D1E713D2D000EB5C5 /* Teacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Teacher.m; sourceTree = "<group>"; };
+		71F438BB1E7155ED000EB5C5 /* GithubUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GithubUser.h; sourceTree = "<group>"; };
+		71F438BC1E7155ED000EB5C5 /* GithubUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GithubUser.m; sourceTree = "<group>"; };
+		71F438BD1E7155ED000EB5C5 /* NSObject+Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Model.h"; sourceTree = "<group>"; };
+		71F438BE1E7155ED000EB5C5 /* NSObject+Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Model.m"; sourceTree = "<group>"; };
+		71F438C51E71580F000EB5C5 /* Human.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Human.h; sourceTree = "<group>"; };
+		71F438C61E71580F000EB5C5 /* Human.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Human.m; sourceTree = "<group>"; };
+		71FAE0061E7BDAA6002E88E2 /* Chinese.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Chinese.h; sourceTree = "<group>"; };
+		71FAE0071E7BDAA6002E88E2 /* Chinese.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Chinese.m; sourceTree = "<group>"; };
+		71FAE0091E7BE478002E88E2 /* FeralCat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeralCat.h; sourceTree = "<group>"; };
+		71FAE00A1E7BE478002E88E2 /* FeralCat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeralCat.m; sourceTree = "<group>"; };
+		71FAE00C1E7BE4DD002E88E2 /* HomeCat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeCat.h; sourceTree = "<group>"; };
+		71FAE00D1E7BE4DD002E88E2 /* HomeCat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeCat.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +126,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		712D5FF71E724D9500941BBB /* runtime之实现归档和反归档 */ = {
+			isa = PBXGroup;
+			children = (
+				712D5FFF1E7251AF00941BBB /* 第二种方法(简化方法) */,
+				712D5FFE1E7251A000941BBB /* 第一种方法 */,
+				712D60001E72523F00941BBB /* TestModel.h */,
+				712D60011E72523F00941BBB /* TestModel.m */,
+			);
+			name = "runtime之实现归档和反归档";
+			sourceTree = "<group>";
+		};
+		712D5FFE1E7251A000941BBB /* 第一种方法 */ = {
+			isa = PBXGroup;
+			children = (
+				712D5FF81E724E0C00941BBB /* LXEncodeModel.h */,
+				712D5FF91E724E0C00941BBB /* LXEncodeModel.m */,
+			);
+			name = "第一种方法";
+			sourceTree = "<group>";
+		};
+		712D5FFF1E7251AF00941BBB /* 第二种方法(简化方法) */ = {
+			isa = PBXGroup;
+			children = (
+				712D5FFB1E7250D400941BBB /* NSObject+LXEncode.h */,
+				712D5FFC1E7250D400941BBB /* NSObject+LXEncode.m */,
+			);
+			name = "第二种方法(简化方法)";
+			sourceTree = "<group>";
+		};
+		712D60031E72540600941BBB /* runtime之关联对象 */ = {
+			isa = PBXGroup;
+			children = (
+				71E104961E7CE49400BF3596 /* runtime之实现观察者 */,
+				71F438591E70F5E0000EB5C5 /* runtime之分类动态添加属性(关联） */,
+			);
+			name = "runtime之关联对象";
+			sourceTree = "<group>";
+		};
+		712D60041E72542C00941BBB /* runtime之动态绑定 */ = {
+			isa = PBXGroup;
+			children = (
+				71F438C11E715701000EB5C5 /* runtime之动态消息转发 */,
+				71F438BA1E715252000EB5C5 /* runtime之动态方法解析 */,
+			);
+			name = "runtime之动态绑定";
+			sourceTree = "<group>";
+		};
+		71E104961E7CE49400BF3596 /* runtime之实现观察者 */ = {
+			isa = PBXGroup;
+			children = (
+				71E1049A1E7CED3A00BF3596 /* NSObject+LXKVO.h */,
+				71E1049B1E7CED3A00BF3596 /* NSObject+LXKVO.m */,
+			);
+			name = "runtime之实现观察者";
+			sourceTree = "<group>";
+		};
 		71F4381A1E70F5C6000EB5C5 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +205,10 @@
 		71F438251E70F5C6000EB5C5 /* runtime的常见用法 */ = {
 			isa = PBXGroup;
 			children = (
+				712D60041E72542C00941BBB /* runtime之动态绑定 */,
+				712D60031E72540600941BBB /* runtime之关联对象 */,
+				71F438671E712CB5000EB5C5 /* runtime之获取类相关列表 */,
+				71F438631E711029000EB5C5 /* runtime之创建类，实例化对象 */,
 				71F438291E70F5C6000EB5C5 /* AppDelegate.h */,
 				71F4382A1E70F5C6000EB5C5 /* AppDelegate.m */,
 				71F4382C1E70F5C6000EB5C5 /* ViewController.h */,
@@ -138,6 +246,82 @@
 				71F4384D1E70F5C7000EB5C5 /* Info.plist */,
 			);
 			path = "runtime的常见用法UITests";
+			sourceTree = "<group>";
+		};
+		71F438591E70F5E0000EB5C5 /* runtime之分类动态添加属性(关联） */ = {
+			isa = PBXGroup;
+			children = (
+				71F4385A1E70F61A000EB5C5 /* Person.h */,
+				71F4385B1E70F61A000EB5C5 /* Person.m */,
+				71F4385D1E70F7E1000EB5C5 /* Person+Category.h */,
+				71F4385E1E70F7E1000EB5C5 /* Person+Category.m */,
+				71F438601E710B1A000EB5C5 /* Student.h */,
+				71F438611E710B1A000EB5C5 /* Student.m */,
+			);
+			name = "runtime之分类动态添加属性(关联）";
+			sourceTree = "<group>";
+		};
+		71F438631E711029000EB5C5 /* runtime之创建类，实例化对象 */ = {
+			isa = PBXGroup;
+			children = (
+				712D60051E72550600941BBB /* TestViewController.h */,
+				712D60061E72550600941BBB /* TestViewController.m */,
+			);
+			name = "runtime之创建类，实例化对象";
+			sourceTree = "<group>";
+		};
+		71F438671E712CB5000EB5C5 /* runtime之获取类相关列表 */ = {
+			isa = PBXGroup;
+			children = (
+				71F438681E712D51000EB5C5 /* CATest.h */,
+				71F438691E712D51000EB5C5 /* CATest.m */,
+				71F4386B1E713CF8000EB5C5 /* runtime之私有属性的访问与修改 */,
+				71F4386F1E7147B6000EB5C5 /* runtime之字典转模型 */,
+				712D5FF71E724D9500941BBB /* runtime之实现归档和反归档 */,
+			);
+			name = "runtime之获取类相关列表";
+			sourceTree = "<group>";
+		};
+		71F4386B1E713CF8000EB5C5 /* runtime之私有属性的访问与修改 */ = {
+			isa = PBXGroup;
+			children = (
+				71F4386C1E713D2D000EB5C5 /* Teacher.h */,
+				71F4386D1E713D2D000EB5C5 /* Teacher.m */,
+			);
+			name = "runtime之私有属性的访问与修改";
+			sourceTree = "<group>";
+		};
+		71F4386F1E7147B6000EB5C5 /* runtime之字典转模型 */ = {
+			isa = PBXGroup;
+			children = (
+				71F438BB1E7155ED000EB5C5 /* GithubUser.h */,
+				71F438BC1E7155ED000EB5C5 /* GithubUser.m */,
+				71F438BD1E7155ED000EB5C5 /* NSObject+Model.h */,
+				71F438BE1E7155ED000EB5C5 /* NSObject+Model.m */,
+			);
+			name = "runtime之字典转模型";
+			sourceTree = "<group>";
+		};
+		71F438BA1E715252000EB5C5 /* runtime之动态方法解析 */ = {
+			isa = PBXGroup;
+			children = (
+				71F438C51E71580F000EB5C5 /* Human.h */,
+				71F438C61E71580F000EB5C5 /* Human.m */,
+				71FAE0061E7BDAA6002E88E2 /* Chinese.h */,
+				71FAE0071E7BDAA6002E88E2 /* Chinese.m */,
+			);
+			name = "runtime之动态方法解析";
+			sourceTree = "<group>";
+		};
+		71F438C11E715701000EB5C5 /* runtime之动态消息转发 */ = {
+			isa = PBXGroup;
+			children = (
+				71FAE0091E7BE478002E88E2 /* FeralCat.h */,
+				71FAE00A1E7BE478002E88E2 /* FeralCat.m */,
+				71FAE00C1E7BE4DD002E88E2 /* HomeCat.h */,
+				71FAE00D1E7BE4DD002E88E2 /* HomeCat.m */,
+			);
+			name = "runtime之动态消息转发";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,9 +460,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71F4385F1E70F7E1000EB5C5 /* Person+Category.m in Sources */,
+				71FAE0081E7BDAA6002E88E2 /* Chinese.m in Sources */,
+				71F438C01E7155ED000EB5C5 /* NSObject+Model.m in Sources */,
+				71FAE00E1E7BE4DD002E88E2 /* HomeCat.m in Sources */,
 				71F4382E1E70F5C6000EB5C5 /* ViewController.m in Sources */,
 				71F4382B1E70F5C6000EB5C5 /* AppDelegate.m in Sources */,
+				712D5FFD1E7250D400941BBB /* NSObject+LXEncode.m in Sources */,
+				71F438BF1E7155ED000EB5C5 /* GithubUser.m in Sources */,
+				71FAE00B1E7BE478002E88E2 /* FeralCat.m in Sources */,
+				71F4385C1E70F61A000EB5C5 /* Person.m in Sources */,
+				712D60021E72523F00941BBB /* TestModel.m in Sources */,
+				712D60071E72550600941BBB /* TestViewController.m in Sources */,
+				71F438C71E71580F000EB5C5 /* Human.m in Sources */,
 				71F438281E70F5C6000EB5C5 /* main.m in Sources */,
+				712D5FFA1E724E0C00941BBB /* LXEncodeModel.m in Sources */,
+				71E1049C1E7CED3A00BF3596 /* NSObject+LXKVO.m in Sources */,
+				71F4386E1E713D2D000EB5C5 /* Teacher.m in Sources */,
+				71F438621E710B1A000EB5C5 /* Student.m in Sources */,
+				71F4386A1E712D51000EB5C5 /* CATest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,7 +628,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = S6399V563F;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = "runtime的常见用法/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.doreso.Doreso.runtime-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -440,7 +642,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = S6399V563F;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = "runtime的常见用法/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.doreso.Doreso.runtime-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +720,7 @@
 				71F438521E70F5C7000EB5C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71F438531E70F5C7000EB5C5 /* Build configuration list for PBXNativeTarget "runtime的常见用法Tests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +729,7 @@
 				71F438551E70F5C7000EB5C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71F438561E70F5C7000EB5C5 /* Build configuration list for PBXNativeTarget "runtime的常见用法UITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +738,7 @@
 				71F438581E70F5C7000EB5C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
